@@ -1,4 +1,4 @@
-; ColemaQ-F layout for AutoHotkey (MS Windows)
+; ColemaQ layout for AutoHotkey (MS Windows)
 ; Made by Oats
 ; There is no license for this you can do whatever you want with it 
 
