@@ -31,7 +31,7 @@ SetTitleMatchMode 3  ; Exact matching to avoid confusing T/B with Tab/Backspace.
 
 q::`;
 ;w::w
-e::f
+e::g
 r::p
 t::b
 y::j
@@ -48,7 +48,7 @@ p::q
 s::r
 d::s
 f::t
-;g::g
+g::f
 h::m
 j::n
 k::e
