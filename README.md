@@ -4,11 +4,11 @@
 ## ANSI
 
 **ColemaQ:**
-[Download zip](colemaq-ansi.zip?raw=true)
+[Download zip](colemaq-ansi.zip?raw=true)  
 [Download ahk](ColemaQ.ahk?raw=true)  
 
 **ColemaQ-F:**
-[Download zip](colemaqf-ansi.zip?raw=true) 
+[Download zip](colemaqf-ansi.zip?raw=true)  
 [Download ahk](ColemaQ-F.ahk?raw=true)  
 
 **ColemaQ-ID:**
